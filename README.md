@@ -1,0 +1,2 @@
+# ExercicesSeance1PHP
+ 
